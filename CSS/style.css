@@ -170,6 +170,7 @@
   line-height: 19.36px;
   letter-spacing: 4px;
   text-transform: uppercase;
+  
 }
 .main-sector-main {
   font-family: "Value Serif Pro-medium";
@@ -520,7 +521,7 @@
 .chemi-kai-one-descr {
   position: absolute;
   left: 9%;
-  top: 655%;
+  top: 675%;
   width: 348px;
   height: 92px;
   color: white;
@@ -529,7 +530,7 @@
 .chemi-kai-two-descr {
   position: absolute;
   left: 39%;
-  top: 655%;
+  top: 675%;
   width: 300px;
   height: 92px;
   color: white;
@@ -538,7 +539,7 @@
 .chemi-kai-three-descr {
   position: absolute;
   left: 69%;
-  top: 655%;
+  top: 675%;
   width: 348px;
   height: 92px;
   color: white;
@@ -659,4 +660,7 @@
 .sizeimg {
   width: 803px;
   height: 800px;
+}
+.black {
+  color: black;
 }
