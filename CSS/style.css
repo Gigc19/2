@@ -1,0 +1,662 @@
+.header {
+  width: 100%;
+  height: 98px;
+  position: sticky;
+  top: 0;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-bottom: 47px;
+}
+.logo {
+  font-family: "Montserrat Alternates";
+  font-size: 42px;
+  color: #1a1a1a;
+}
+.list {
+  display: flex;
+}
+.ul-elements {
+  width: 650px;
+  height: 50px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding-right: 100px;
+}
+.ul-a {
+  font-family: "GT Walsheim Pro";
+  color: #1a1a1a;
+}
+.icon-button {
+  width: 343px;
+  height: 50px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.button {
+  width: 151px;
+  height: 48px;
+  background-color: black;
+  border-radius: 8px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.click {
+  font-family: "Poppins";
+  color: white;
+}
+.main-block {
+  width: 100%;
+  height: 773px;
+  background-color: beige;
+  position: relative;
+}
+.big-block {
+  width: 100%;
+  height: 587px;
+  display: flex;
+  justify-content: end;
+}
+.big-block-photos {
+  width: 887px;
+  height: 587px;
+  display: flex;
+  justify-content: space-between;
+}
+.left-block-title {
+  font-size: 64px;
+  font-family: "Value Serif";
+}
+.left-block {
+  position: absolute;
+  left: 10%;
+  top: 15%;
+  width: 626px;
+  height: 304px;
+}
+.left-block-button {
+  width: 246px;
+  height: 48px;
+  background-color: black;
+  border-radius: 8px;
+  margin-top: 58px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.left-block-click {
+  font-family: "Poppins";
+  color: white;
+}
+.under-block {
+  width: 100%;
+  height: 186px;
+  display: flex;
+  align-items: center;
+}
+.under-block-inside {
+  width: 100%;
+  height: 78px;
+  display: flex;
+  justify-content: space-around;
+}
+.under-block-inside-one {
+  width: 382.5px;
+  height: 78px;
+  display: flex;
+}
+.icon-one {
+  width: 44px;
+  height: 42px;
+}
+.description {
+  width: 411px;
+  height: 78px;
+  font-size: 24px;
+  line-height: 24px;
+  font-family: "Value Serif Pro-medium";
+  margin-left: 18px;
+}
+
+.paragraph-one {
+  font-family: "GT Walsheim Pro";
+  font-size: 16px;
+  line-height: 24px;
+  word-spacing: 1%;
+  color: #1a1a1a99;
+}
+
+.under-block-inside-two {
+  width: 420px;
+  height: 78px;
+  display: flex;
+}
+.under-block-inside-three {
+  width: 411px;
+  height: 78px;
+  display: flex;
+}
+.main-sector {
+  width: 100%;
+  height: 1338px;
+  padding-top: 120px;
+  background-color: beige;
+}
+.main-sector-top {
+  width: 100%;
+  height: 633px;
+  background-color: lightgray;
+}
+.main-sector-bottom {
+  background-color: beige;
+}
+.main-sector-title {
+  width: 800px;
+  height: 89px;
+  margin: auto;
+}
+.main-sector-images {
+  width: 1320px;
+  height: 496px;
+  margin: 48px auto 0;
+}
+.main-sector-sub {
+  text-align: center;
+  font-family: "Inter 18pt";
+  font-size: 16px;
+  line-height: 19.36px;
+  letter-spacing: 4px;
+  text-transform: uppercase;
+}
+.main-sector-main {
+  font-family: "Value Serif Pro-medium";
+  font-size: 48px;
+  line-height: 57.6px;
+}
+.container {
+  width: 1148px;
+  height: 496px;
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+}
+.main-sector-images-one {
+  width: 380px;
+  height: 496px;
+  margin: auto;
+  display: flex;
+  border-radius: 16px;
+}
+.main-sector-images-two {
+  width: 380px;
+  height: 496px;
+  margin: auto;
+  display: flex;
+  background-color: white;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 16px;
+  position: relative;
+}
+.descr {
+  position: absolute;
+  left: 11%;
+  top: 8%;
+  width: 294px;
+  height: 48px;
+}
+.descr-title {
+  font-family: "Value Serif";
+  font-size: 24px;
+  line-height: 32px;
+}
+.span {
+  font-family: "GT Walsheim Pro";
+  line-height: 16px;
+  color: #808080;
+}
+.circle {
+  width: 294px;
+  height: 232px;
+  border-radius: 149px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.button-icon {
+  position: absolute;
+  width: 226px;
+  height: 40px;
+  left: 22%;
+  top: 80%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "GT Walsheim Pro";
+  background-color: Yellow;
+  border-radius: 8px;
+}
+.main-sector-images-three {
+  width: 380px;
+  height: 496px;
+  background-color: white;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  border-radius: 16px;
+}
+
+.descr-two {
+  position: absolute;
+  left: 71%;
+  top: 7.5%;
+  width: 294px;
+  height: 48px;
+}
+.descr-title-two {
+  font-family: "Value Serif";
+  font-size: 24px;
+  line-height: 32px;
+}
+.span-two {
+  font-family: "GT Walsheim Pro";
+  line-height: 16px;
+  color: #808080;
+}
+.circle-two {
+  width: 294px;
+  height: 232px;
+  border-radius: 149px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.button-icon-two {
+  position: absolute;
+  width: 226px;
+  height: 40px;
+  left: 74%;
+  top: 80%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "GT Walsheim Pro";
+  background-color: Yellow;
+  border-radius: 8px;
+}
+
+.image-title {
+  position: absolute;
+  left: 17%;
+  top: 25%;
+  transform: translate(-50%, -50%);
+  width: 294px;
+  height: 150px;
+}
+.image-title-font {
+  font-family: "Value Serif Pro-medium";
+  font-size: 40px;
+  color: white;
+  line-height: 45.6px;
+}
+.image-button {
+  position: absolute;
+  left: 7%;
+  top: 80%;
+  width: 226px;
+  height: 40px;
+  background-color: Yellow;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "GT Walsheim Pro";
+  border-radius: 8px;
+}
+.image-size {
+  width: 380px;
+  height: 496px;
+  border-radius: 16px;
+}
+.main-sector-bottom {
+  width: 100%;
+  height: 305px;
+  margin-top: 100px;
+}
+.head-title {
+  text-align: center;
+  font-size: 48px;
+  line-height: 57.6px;
+}
+.below {
+  width: 1143px;
+  height: 170px;
+  margin: 77px auto;
+  display: flex;
+  justify-content: space-between;
+}
+.below-one {
+  width: 365px;
+  height: 170px;
+  background-color: white;
+  display: flex;
+  align-items: center;
+}
+.icon-paragraph {
+  padding-left: 21.5px;
+  font-family: "GT Walsheim Pro";
+  line-height: 24px;
+  font-size: 20px;
+  letter-spacing: 2%;
+}
+.height {
+  margin-top: 15px;
+}
+.just-icon {
+  width: 330px;
+  height: 72px;
+  display: flex;
+  padding-left: 21.5px;
+}
+.add {
+  width: 100%;
+  height: 329px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: beige;
+}
+.centre {
+  width: 800px;
+  height: 89px;
+}
+.centre-title {
+  text-align: center;
+  font-family: "Inter 18pt";
+  font-size: 16px;
+  line-height: 19.36px;
+  letter-spacing: 4px;
+}
+.centre-title-big {
+  text-align: center;
+  font-family: "Value Serif Pro-medium";
+  font-size: 48px;
+  line-height: 57.6px;
+  margin-top: 12px;
+}
+.section-huge {
+  width: 100%;
+  height: 2166px;
+  background-image: linear-gradient(#ededf5, #f6f6d23d, #fdf5e9, #ededf5);
+}
+.just-image {
+  width: 100%;
+  height: 750px;
+  position: relative;
+}
+.img-sizing {
+  width: 1319px;
+  height: 750px;
+  border-radius: 16px;
+  margin-left: 7%;
+}
+.in-just-image {
+  position: absolute;
+  left: 13.5%;
+  top: 10%;
+  width: 638px;
+  height: 132px;
+}
+.in-just-image-font {
+  font-family: "Value Serif Pro-medium";
+  font-size: 48px;
+  line-height: 57.6px;
+}
+.button-icon-third {
+  position: absolute;
+  width: 226px;
+  height: 40px;
+  position: absolute;
+  left: 14%;
+  top: 30%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "GT Walsheim Pro";
+  background-color: yellow;
+  border-radius: 8px;
+  letter-spacing: 0.5px;
+}
+.one-more-centre {
+  width: 100%;
+  height: 300px;
+  margin-top: 220px;
+  margin-bottom: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.one-more-div-inside {
+  width: 874px;
+  height: 243px;
+}
+.one-more-div-inside-title {
+  width: 373.66px;
+  height: 65px;
+  display: flex;
+  margin: auto;
+}
+.oleo {
+  font-family: "Oleo Script";
+  font-size: 60px;
+  margin: auto 0;
+}
+.says {
+  font-size: 32px;
+  font-family: "GT Walsheim Pro";
+  letter-spacing: 0.5px;
+  line-height: 35px;
+  margin: 10px 13.5px;
+}
+.agwera {
+  width: 874px;
+  height: 146px;
+  margin-top: 31.5px;
+}
+.spanunia {
+  margin-left: 47%;
+}
+.agwer-descri {
+  font-family: "GT Walsheim Pro";
+  text-align: center;
+  font-size: 28px;
+  line-height: 32.06px;
+  padding-top: 50px;
+  color: rgba(28, 28, 28, 0.75);
+}
+.chemi-kai {
+  width: 100%;
+  height: 633px;
+}
+.chemi-kai-title {
+  width: 550px;
+  height: 89px;
+  margin: auto;
+}
+.chemi-kai-container {
+  width: 1320px;
+  height: 496px;
+  margin: 48px auto;
+  display: flex;
+  justify-content: space-between;
+}
+.chemi-kai-one {
+  width: 424px;
+  height: 496px;
+  position: relative;
+}
+.chemi-kai-two {
+  width: 424px;
+  height: 496px;
+  position: relative;
+}
+.chemi-kai-three {
+  width: 424px;
+  height: 496px;
+  position: relative;
+}
+.size {
+  width: 424px;
+  height: 496px;
+  border-radius: 16px;
+}
+.chemi-kai-one-descr {
+  position: absolute;
+  left: 9%;
+  top: 655%;
+  width: 348px;
+  height: 92px;
+  color: white;
+  font-family: "Value Serif";
+}
+.chemi-kai-two-descr {
+  position: absolute;
+  left: 39%;
+  top: 655%;
+  width: 300px;
+  height: 92px;
+  color: white;
+  font-family: "Value Serif";
+}
+.chemi-kai-three-descr {
+  position: absolute;
+  left: 69%;
+  top: 655%;
+  width: 348px;
+  height: 92px;
+  color: white;
+  font-family: "Value Serif";
+}
+.damadzala {
+  position: absolute;
+  left: 0;
+  top: 59%;
+}
+
+.sxva {
+  font-family: "Poppins";
+  font-weight: 300;
+  line-height: 24px;
+  font-size: 16px;
+  margin-top: 20px;
+  margin-left: 25px;
+}
+.momabezra-tavi {
+  position: relative;
+  width: 100%;
+  height: 800px;
+  background-color: lightblue;
+}
+.left-momabezra {
+  width: 720px;
+  height: 800px;
+  background-color: beige;
+  padding-top: 120px;
+}
+
+.div-one {
+  width: 660px;
+  height: 125px;
+  margin: auto;
+}
+.one {
+  font-family: "Inter 18pt";
+  font-size: 16px;
+  letter-spacing: 4px;
+  text-align: center;
+  text-transform: uppercase;
+}
+.two {
+  font-family: "Value Serif";
+  font-size: 48px;
+  line-height: 57.6px;
+  letter-spacing: 4px;
+  text-align: center;
+  text-transform: uppercase;
+}
+.three {
+  font-family: "Value Serif Pro-medium";
+  font-size: 20px;
+  line-height: 40px;
+  letter-spacing: 1%;
+  text-align: center;
+  text-transform: uppercase;
+}
+.div-two {
+  width: 191px;
+  height: 271.9px;
+  margin: 69.91px auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.insta {
+  width: 191px;
+  height: 58.39px;
+  display: flex;
+  align-items: center;
+}
+.shida {
+  margin-left: 25px;
+}
+.para {
+  font-family: "GT Walsheim Pro";
+  font-size: 28px;
+  line-height: 32.06px;
+}
+.vaime {
+  font-family: "Value Serif Pro-medium";
+  font-size: 16px;
+  line-height: 23.4px;
+}
+.tik-tok {
+  width: 191px;
+  height: 58.39px;
+  display: flex;
+
+  align-items: center;
+}
+.twitter {
+  width: 191px;
+  height: 58.39px;
+  display: flex;
+  align-items: center;
+}
+.small {
+  display: flex;
+  justify-content: center;
+}
+.sub-text {
+  font-family: 'Value Serif Pro-medium';
+  font-size: 16px;
+  line-height: 23.4px;
+
+}
+.right-momabezra {
+  position: absolute;
+  left: 47.2%;
+  top: 0;
+  width: 100%;
+  height: 800px;
+}
+.sizeimg {
+  width: 803px;
+  height: 800px;
+}

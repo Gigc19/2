@@ -1,0 +1,80 @@
+@font-face {
+    font-family: 'Inter 18pt';
+    src: url('../FONTS/inter/Inter18pt-Medium.eot');
+    src: url('../FONTS/inter/Inter18pt-Medium.eot?#iefix') format('embedded-opentype'),
+        url('../FONTS/inter/Inter18pt-Medium.woff2') format('woff2'),
+        url('../FONTS/inter/Inter18pt-Medium.woff') format('woff'),
+        url('../FONTS/inter/Inter18pt-Medium.svg#Inter18pt-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Montserrat Alternates';
+    src: url('../FONTS/Monster/MontserratAlternates-Bold.eot');
+    src: url('../FONTS/Monster/MontserratAlternates-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../FONTS/Monster/MontserratAlternates-Bold.woff2') format('woff2'),
+        url('../FONTS/Monster/MontserratAlternates-Bold.woff') format('woff'),
+        url('../FONTS/Monster/MontserratAlternates-Bold.svg#MontserratAlternates-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'GT Walsheim Pro';
+    src: url('../FONTS/GT/GTWalsheimPro-Bold.eot');
+    src: url('../FONTS/GT/GTWalsheimPro-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../FONTS/GT/GTWalsheimPro-Bold.woff2') format('woff2'),
+        url('../FONTS/GT/GTWalsheimPro-Bold.woff') format('woff'),
+        url('../FONTS/GT/GTWalsheimPro-Bold.svg#GTWalsheimPro-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Value Serif';
+    src: url('../FONTS/serifb/ValueSerif-Bold.eot');
+    src: url('../FONTS/serifb/ValueSerif-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../FONTS/serifb/ValueSerif-Bold.woff2') format('woff2'),
+        url('../FONTS/serifb/ValueSerif-Bold.woff') format('woff'),
+        url('../FONTS/serifb/ValueSerif-Bold.svg#ValueSerif-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Value Serif Pro-medium';
+    src: url('../FONTS/serifm/ValueSerifPro-Medium.eot');
+    src: url('../FONTS/serifm/ValueSerifPro-Medium.eot?#iefix') format('embedded-opentype'),
+        url('../FONTS/serifm/ValueSerifPro-Medium.woff2') format('woff2'),
+        url('../FONTS/serifm/ValueSerifPro-Medium.woff') format('woff'),
+        url('../FONTS/serifm/ValueSerifPro-Medium.svg#ValueSerifPro-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Poppins';
+    src: url('../FONTS/poppins/Poppins-Regular.eot');
+    src: url('../FONTS/poppins/Poppins-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../FONTS/poppins/Poppins-Regular.woff2') format('woff2'),
+        url('../FONTS/poppins/Poppins-Regular.woff') format('woff'),
+        url('../FONTS/poppins/Poppins-Regular.svg#Poppins-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+  }
+  @font-face {
+    font-family: 'Oleo Script';
+    src: url('../FONTS/oleo/OleoScript-Bold.eot');
+    src: url('../FONTS/oleo/OleoScript-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../FONTS/oleo/OleoScript-Bold.woff2') format('woff2'),
+        url('../FONTS/oleo/OleoScript-Bold.woff') format('woff'),
+        url('../FONTS/oleo/OleoScript-Bold.svg#OleoScript-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+
